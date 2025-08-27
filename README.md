@@ -1,6 +1,6 @@
 # Assembly-Lab-Codes-Tamanna
 Name: Tamanna Jaiswal
-Roll Number: 55
+Roll Number: 54
 Enrollment Number:ADT24SOCB1268
 Class:SY6
 Year:2
@@ -16,5 +16,10 @@ A simple program that prints Hello, World! to the terminal.
 
 name_and_surname.asm
 A program that prints your name and surname using macros in NASM.
+
+8 bit by 8 bit multiplication and result checked by gdb 
+16 bit by 16 bit multiplication and result checked by gdb 
+16 bit by 8 bit division and result checked by gdb 
+8 bit by 8 bit multiplication and  displaying result on console 
 
 
